@@ -1,4 +1,4 @@
-local server = "99.224.57.33"; local serverport = 50393; local playerName = "table"; local id = 352
+local server = "IPHERE"; local serverport = PORTHERE; local playerName = "YOURNAMEHERE"; local id = 352
 
 function onDisconnection(peer, lostConnection)
 	if lostConnection then
