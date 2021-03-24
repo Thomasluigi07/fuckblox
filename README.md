@@ -16,6 +16,8 @@ ok thats hit ogood bey!!!
 download this if you haven't, it's required
 https://www.microsoft.com/en-us/download/details.aspx?id=26347
 
+# client doesnt work even after instal visual studio c;-++ 2005!!
+download the cleitn from https://github.com/Thomasluigi07/fuckblox/releases/tag/1.0
 # credits
 includes r06 figure pack in this, made by quackk
 original patched client made by table https://github.com/t4blee/tab07-client
