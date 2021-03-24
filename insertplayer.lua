@@ -1,0 +1,1 @@
+local newplayer = Instance.new("Player", game.Players) newplayer.Name = "ROBLOX" newplayer:LoadCharacter()while true do   if newplayer.Character.Humanoid.Health == 0 then     print(newplayer.Name .. " was killed")      wait(4.5)    newplayer:LoadCharacter()  end  wait(0.001)end
