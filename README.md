@@ -11,3 +11,12 @@ open another process, press tools > execute script > joinlocal.lua
 edit join.lua before executing!
 open FUCKBLOX.exe > press tools > execute script > join.lua
 ok thats hit ogood bey!!!
+
+# im gettning eror on play!! hel!p!
+download this if you haven't, it's required
+https://www.microsoft.com/en-us/download/details.aspx?id=26347
+
+# credits
+includes r06 figure pack in this, made by quackk
+original patched client made by table https://github.com/t4blee/tab07-client
+original client by roblox corp
