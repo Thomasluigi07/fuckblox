@@ -4,6 +4,7 @@ The epic new revival that nobody will care about!
 
 # how do i download???
 download the cleitn from https://github.com/Thomasluigi07/fuckblox/releases/tag/1.0
+ do not download from the main page
 # how tdo i hhost1?
 Play with people you trust please.
  to host: open map, press tools > execute script > host.lua
