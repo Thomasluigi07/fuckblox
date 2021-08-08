@@ -1,3 +1,7 @@
+# this is now broken
+i am so sorry but fuckblox has broken and i have no fucking idea why. don't even bother playing this
+
+
 # FUCKBLOX
 The epic new revival that nobody will care about!
 (trus t me!!)
